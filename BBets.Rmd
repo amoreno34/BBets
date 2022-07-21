@@ -163,3 +163,4 @@ Size of 28 classmates will make the 2:1 bet fair. Dr.Brownlow lost on average `r
 
 <!--Discussion and conclusion here.  If professor Brownlow is consistantly making or losing money how could he change his payout so that his profits center on zero?  Also discuss what size his class should be in order to have his current scheme balance at zero profit.!-->
 
+The 2:1 ratio was used for the first one. 4.35 to 1 for the second scenario. 40 DR J substitutes doing the deal at 2:1 will average a profit of 280. For the 3rd scenario a size of 28 classmates will make the bet fair. 
